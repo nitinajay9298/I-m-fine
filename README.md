@@ -1,4 +1,4 @@
-# [I'm fine.](https://charlesstover.github.io/im-fine/)
+# [I'm fine.](https://nitinajay9298.github.io/I-m-fine/)
 _I'm fine_ is an art project that visually represents depressive mood and thoughts.
 
-[View](https://charlesstover.github.io/im-fine/)
+[View](https://nitinajay9298.github.io/I-m-fine/)
